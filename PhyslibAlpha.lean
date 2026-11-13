@@ -773,6 +773,7 @@ public import PhyslibAlpha.QuantumMechanics.AngularMomentum.NineJ
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.NormalizedBasis
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.ProjectionTheorem
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahDoubleSum
+public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahDoubleSumCollapse
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahDoubleSumInner
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahSum
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahSumSymmetry
