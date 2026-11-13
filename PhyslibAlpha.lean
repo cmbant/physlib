@@ -328,6 +328,7 @@ public import PhyslibAlpha.Mathematics.RepresentationTheory.Sl2.TensorHighestWei
 public import PhyslibAlpha.Mathematics.RepresentationTheory.Sl2.TensorIntertwiner
 public import PhyslibAlpha.Mathematics.RepresentationTheory.Sl2.Weights
 public import PhyslibAlpha.Mathematics.SpecialFunctions.Hypergeometric.RisingFactorial
+public import PhyslibAlpha.Mathematics.SpecialFunctions.Hypergeometric.Saalschutz
 public import PhyslibAlpha.Mathematics.SpecialFunctions.Laguerre
 public import PhyslibAlpha.Mathematics.SpecialFunctions.SincPropagator.Basic
 public import PhyslibAlpha.Mathematics.SpecialFunctions.SincPropagator.Bessel
