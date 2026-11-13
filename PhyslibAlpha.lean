@@ -783,6 +783,7 @@ public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJ
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJProjection
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJSymmetry
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJTopWeight
+public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJWeightRule
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SpinOrbit
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.Wigner3j
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.WignerEckart
