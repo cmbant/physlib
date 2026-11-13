@@ -784,6 +784,7 @@ public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJ
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJCollapseConst
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJDoubleSum
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJProjection
+public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJRacah
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJRacahRegion
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJSymmetry
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJTopWeight
