@@ -772,6 +772,7 @@ public import PhyslibAlpha.QuantumMechanics.AngularMomentum.MultipoleSumRule
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.NineJ
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.NormalizedBasis
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.ProjectionTheorem
+public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahSum
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SelectionRules
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJ
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJSymmetry
