@@ -775,6 +775,7 @@ public import PhyslibAlpha.QuantumMechanics.AngularMomentum.ProjectionTheorem
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahDoubleSum
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahSum
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahSumSymmetry
+public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahVandermonde
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SelectionRules
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJ
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJProjection
