@@ -776,6 +776,7 @@ public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahSum
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.RacahSumSymmetry
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SelectionRules
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJ
+public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJProjection
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SixJSymmetry
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.SpinOrbit
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.Wigner3j
