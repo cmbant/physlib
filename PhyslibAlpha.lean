@@ -792,6 +792,7 @@ public import PhyslibAlpha.QuantumMechanics.AngularMomentum.WignerEckart
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.WignerEckartIrreducible
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.WignerEckartNormalized
 public import PhyslibAlpha.QuantumMechanics.AngularMomentum.XsSearsInstance
+public import PhyslibAlpha.QuantumMechanics.AngularMomentum.XsSeries
 public import PhyslibAlpha.QuantumMechanics.Blackbody.RayleighJeans
 public import PhyslibAlpha.QuantumMechanics.Foundations.OntologicalModel
 public import PhyslibAlpha.QuantumMechanics.Foundations.PBR.Phases
