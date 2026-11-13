@@ -329,6 +329,7 @@ public import PhyslibAlpha.Mathematics.RepresentationTheory.Sl2.TensorIntertwine
 public import PhyslibAlpha.Mathematics.RepresentationTheory.Sl2.Weights
 public import PhyslibAlpha.Mathematics.SpecialFunctions.Hypergeometric.RisingFactorial
 public import PhyslibAlpha.Mathematics.SpecialFunctions.Hypergeometric.Saalschutz
+public import PhyslibAlpha.Mathematics.SpecialFunctions.Hypergeometric.SearsTerms
 public import PhyslibAlpha.Mathematics.SpecialFunctions.Laguerre
 public import PhyslibAlpha.Mathematics.SpecialFunctions.SincPropagator.Basic
 public import PhyslibAlpha.Mathematics.SpecialFunctions.SincPropagator.Bessel
